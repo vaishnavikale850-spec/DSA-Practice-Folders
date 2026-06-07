@@ -1,5 +1,5 @@
 /*
-charAt() = remove character from stringbuilder
+charAt() = return character present in that index of stringbuilder
 parameter = int
 return = stringbuilder
 */
