@@ -13,6 +13,7 @@ class Demo{
 			if(cs<0){
 				cs = 0;
 			}
+
 			//calculate max from current sum &  max sum
 			if(cs>maxsum){
 				maxsum = cs;
